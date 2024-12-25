@@ -1,13 +1,4 @@
-@font-face {
-    font-family: 'papyrusregular';
-    src: url('papyrus-webfont.woff2') format('woff2'),
-         url('papyrus-webfont.woff') format('woff');
-         url:('papyrus.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
 body {
     background-color: bisque;
-    font-family: 'Papyrus', sans-serif;
+    font-family: 'Papyrus';
 }
